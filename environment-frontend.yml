@@ -1,0 +1,8 @@
+name: natural-events-frontend
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - nodejs=18.*
+  - npm
+  - yarn
