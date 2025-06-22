@@ -96,7 +96,7 @@ Click on any marker to view detailed information about the event.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/natural-events-tracker-pro.git
+git clone https://github.com/AIFahim/natural-events-tracker-pro.git
 cd natural-events-tracker-pro
 ```
 

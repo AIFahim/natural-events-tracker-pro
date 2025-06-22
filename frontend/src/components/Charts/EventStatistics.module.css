@@ -1,0 +1,40 @@
+.container {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.title {
+  font-size: 1.5rem;
+  color: #2c3e50;
+  text-align: center;
+  margin: 0 0 0.5rem 0;
+  font-weight: 600;
+}
+
+.subtitle {
+  text-align: center;
+  color: #7f8c8d;
+  font-size: 1rem;
+  margin: 0 0 2rem 0;
+}
+
+.chartWrapper {
+  position: relative;
+  height: 350px;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1.5rem;
+    margin: 1rem 0.5rem;
+  }
+  
+  .chartWrapper {
+    height: 300px;
+  }
+}
